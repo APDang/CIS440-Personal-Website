@@ -1,0 +1,33 @@
+#projects {
+	padding-top:		0px;
+	width:				65%;
+	font-size:			100%;
+	text-align:			center;
+	margin:				auto;
+	line-height:		50%;
+	margin-bottom:		690px;
+}
+
+ul#project {
+	list-style:			none;
+	text-shadow:		none;
+	font-weight:		bold;
+}
+
+ul#project li {
+	margin-right:		5px;
+	margin-left:		5px;
+	margin-top:			5px;
+	margin-bottom:		5px;
+	float:				left;
+	width:				140px;
+	list-style:			none;
+	background-color:	#a90000;
+	line-height:		.9em;
+	display:			inline;
+}
+
+ul#project img {
+	height:				100px;
+	width:				100px;
+}
